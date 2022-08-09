@@ -1,5 +1,5 @@
 # Weatheron
-Weather app built using Qt5 C++
+Weather app built using Qt C++
 
 #### Complex weather data fetching from an API. Supports forecast for 2 weeks
 
